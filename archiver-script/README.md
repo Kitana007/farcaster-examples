@@ -52,4 +52,4 @@ const client = new NeynarAPIClient("YOUR_NEYNAR_API_KEY");
 node index.js
 ```
 
-You should now be ready to run the script, saving the casts of the user with the FID you specified to a file called `data.ndjson` in the same directory as `index.js`.
+You should now be ready to run the script, saving the casts of the user with the FID .you specified to a file called `data.ndjson` in the same directory as `index.js`.
